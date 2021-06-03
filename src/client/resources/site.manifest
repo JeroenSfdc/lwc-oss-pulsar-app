@@ -1,0 +1,13 @@
+{
+    "background_color": "#fff",
+    "display": "standalone",
+    "icons": [{
+        "src": "images/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }],
+    "name": "Pulsar LWC Demo",
+    "short_name": "ulsar LWC Demo",
+    "start_url": "/#hello",
+    "theme_color": "#fff"
+}
